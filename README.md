@@ -80,10 +80,13 @@ Current progress:
 ## Authors
 
 Nguyễn Đức Tấn Kiệt
+[@KietNDT](https://github.com/KietNDT)
 
 Triệu Quốc Huy
+[@Trieu-Huy](https://github.com/Trieu-Huy)
 
 Phan Khánh Tâm
+[@Tam-sketch](https://github.com/Tam-sketch)
 
 UIT - University of Information Technology
 
