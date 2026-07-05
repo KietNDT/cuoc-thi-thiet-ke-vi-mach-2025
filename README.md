@@ -29,42 +29,9 @@ Different sensors exhibit different noise characteristics, therefore different f
 
 | Sensor | Main Noise | Filter |
 |---------|------------|--------|
-| PM2.5 | Spike, rapid fluctuation | Median(3) + Moving Average(😎 |
-| Temperature | Small random noise | Moving Average(😎 |
-| Humidity | Step changes, outliers | Moving Average(😎 + Outlier Detection |
-
----
-
-## Project Structure
-
-project/
-
-│
-
-├── moving_average_q88.v
-
-├── median3_q88.v
-
-├── median5_q88.v
-
-├── outlier_q88.v
-
-├── filter_top_q88.v
-
-├── tb_filter_q88.v
-
-│
-
-├── generate_signals.py
-
-│
-
-├── input_q88.txt
-
-├── gold_q88.txt
-
-└── README.md
-
+| PM2.5 | Spike, rapid fluctuation | Median(3) + Moving Average(8) |
+| Temperature | Small random noise | Moving Average(8) |
+| Humidity | Step changes, outliers | Moving Average(8) + Outlier Detection |
 
 ---
 
@@ -112,8 +79,12 @@ Current progress:
 
 ## Authors
 
-Computer Engineering Students
+Nguyễn Đức Tấn Kiệt
+
+Triệu Quốc Huy
+
+Phan Khánh Tâm
 
 UIT - University of Information Technology
 
-2026
+2025
