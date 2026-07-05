@@ -41,7 +41,7 @@ Different sensors exhibit different noise characteristics, therefore different f
 2. Implement filtering algorithms in Verilog
 3. Verify functionality using ModelSim
 4. Compare FPGA output with software reference
-5. Synthesize design using Quartus Prime
+5. Synthesize design using Quartus II 13.01sp1 (64-bit)
 6. Deploy to FPGA hardware
 
 ---
