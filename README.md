@@ -78,7 +78,7 @@ Current progress:
 ---
 
 ## Authors
-Triệu Quốc Huy(Leader)
+Triệu Quốc Huy (Leader)
 [@Trieu-Huy](https://github.com/Trieu-Huy)
 
 
@@ -89,6 +89,7 @@ Nguyễn Đức Tấn Kiệt
 Phan Khánh Tâm
 [@Tam-sketch](https://github.com/Tam-sketch)
 
+Nguyễn Đức Trọng
 UIT - University of Information Technology
 
 2025
