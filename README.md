@@ -49,7 +49,7 @@ Different sensors exhibit different noise characteristics, therefore different f
 ## Development Tools
 
 - Verilog HDL
-- Quartus Prime
+- Quartus II 13.01sp1 (64-bit)
 - ModelSim Intel FPGA Edition
 - Python (NumPy, SciPy)
 - Git & GitHub
