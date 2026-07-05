@@ -78,12 +78,13 @@ Current progress:
 ---
 
 ## Authors
+Triệu Quốc Huy(Leader)
+[@Trieu-Huy](https://github.com/Trieu-Huy)
+
 
 Nguyễn Đức Tấn Kiệt
 [@KietNDT](https://github.com/KietNDT)
 
-Triệu Quốc Huy
-[@Trieu-Huy](https://github.com/Trieu-Huy)
 
 Phan Khánh Tâm
 [@Tam-sketch](https://github.com/Tam-sketch)
