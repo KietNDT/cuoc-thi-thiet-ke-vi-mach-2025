@@ -38,19 +38,33 @@ Different sensors exhibit different noise characteristics, therefore different f
 ## Project Structure
 
 project/
+
 │
+
 ├── moving_average_q88.v
+
 ├── median3_q88.v
+
 ├── median5_q88.v
+
 ├── outlier_q88.v
+
 ├── filter_top_q88.v
+
 ├── tb_filter_q88.v
+
 │
+
 ├── generate_signals.py
+
 │
+
 ├── input_q88.txt
+
 ├── gold_q88.txt
+
 └── README.md
+
 
 ---
 
